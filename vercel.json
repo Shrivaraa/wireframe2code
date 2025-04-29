@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/ai-model/route.ts": {
+      "maxDuration": 60
+    }
+  }
+}
